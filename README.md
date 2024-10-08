@@ -13,5 +13,4 @@ class kia{
 void move(){
 System.out.println(&quot;Car is moving&quot;);
 }
-
 }
